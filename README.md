@@ -1,4 +1,4 @@
-### Hi there! I'm Kelvin Odinamadu 👋
+### Hi there! Your Welcome to my GitHub Profile and I'm Kelvin Odinamadu 👋
 
 I am a third-year co-op student studying Honours BSc in Computer Science at Brock University, with a passion for building quality software applications.
 
