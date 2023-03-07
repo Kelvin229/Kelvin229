@@ -20,5 +20,5 @@ I am eager to expand my skill set and take on new challenges in these areas.
 #### Lets Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=<https://www.linkedin.com/in/kelvin-odi/>)]
 [![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&link=<https://github.com/Kelvin229>)]
-#
+
 I am always seeking new opportunities to learn and grow, so please feel free to connect with me on LinkedIn or check out my GitHub to see more of my work!.
