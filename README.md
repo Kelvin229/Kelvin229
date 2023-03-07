@@ -2,13 +2,6 @@
 
 I am a third-year co-op student studying Honours Bachelor of Science in Computer Science at Brock University, with a passion for building quality software applications.
 
-#### Tech Stack
-*	Main Programming languages:  Java, C/C++, Python3.
-*	Knowledgeable Frameworks: React, Angular, React Native, Express.js, .NET framework, Django REST framework.
-*	Knowledgeable languages:  C#, JavaScript, Typescript, SQL.
-*	Other tools: MySQL, MongoDB, Git, NodeJS, Bash, Microsoft 365, Streamlit, Jupyter, Postman, and Android Studio.
-
-
 #### Recent Technical Positons
 * Web Application Developer (co-op) - [Haver & Boecker Canada](https://www.haverboecker.com/en/)
 * Technical Analyst (co-op) - [Ontario Ministry of Transportation](https://www.ontario.ca/page/careers-ontario-public-service)
