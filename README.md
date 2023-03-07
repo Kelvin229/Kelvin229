@@ -18,8 +18,8 @@ In addition to web and mobile development, I am also interested in exploring oth
 I am eager to expand my skill set and take on new challenges in these areas.
 
 #### Lets Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=<https://www.linkedin.com/in/kelvin-odi/>)]
-[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&link=<https://github.com/Kelvin229>)]
-[![youtube](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube&link=<[https://github.com/Kelvin229](https://www.youtube.com/channel/UCYlxpbz8N8Tg6P_neWpks2w)>)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=<https://www.linkedin.com/in/kelvin-odi/>)](https://www.linkedin.com/in/kelvin-odi/)
+[![GitHub](https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&link=<https://github.com/Kelvin229>)](https://github.com/Kelvin229)
+[![youtube](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube&link=<[https://github.com/Kelvin229](https://www.youtube.com/channel/UCYlxpbz8N8Tg6P_neWpks2w)>)](https://www.youtube.com/channel/UCYlxpbz8N8Tg6P_neWpks2w)
 
 I am always seeking new opportunities to learn and grow, so please feel free to connect with me on LinkedIn or check out my GitHub to see more of my work!.
