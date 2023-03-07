@@ -4,7 +4,7 @@ I am a third-year co-op student studying Honours BSc in Computer Science at Broc
 
 #### Recent Technical Positons
 * Web Application Developer (co-op) - [Haver & Boecker Canada](https://www.haverboecker.com/en/)
-* Technical Analyst (co-op) - [Ontario Ministry of Transportation](https://www.ontario.ca/page/careers-ontario-public-service)
+* Technical Analyst (co-op) - [Ontario Ministry of Transportation](https://www.ontario.ca/page/government-ontario)
 
 #### Areas of interest
 In addition to web and mobile development, I am also interested in exploring other areas of software development. These include:
