@@ -1,6 +1,6 @@
 ### Hi there! I'm Kelvin Odinamadu 👋
 
-I am a third-year co-op student studying Honours Bachelor of Science in Computer Science at Brock University, with a passion for building quality software applications.
+I am a third-year co-op student studying Honours BSc in Computer Science at Brock University, with a passion for building quality software applications.
 
 #### Recent Technical Positons
 * Web Application Developer (co-op) - [Haver & Boecker Canada](https://www.haverboecker.com/en/)
