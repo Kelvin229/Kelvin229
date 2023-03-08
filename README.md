@@ -16,6 +16,7 @@ In addition to web and mobile development, I am also interested in exploring oth
 * Quality Engineering
 * Open Source Development
 * Game Development
+* Product Managment
 * so much more...
 
 I am eager to expand my skill set and take on new challenges in these areas.
