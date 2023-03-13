@@ -1,4 +1,4 @@
-### Hi there! Welcome to my GitHub Profile and I'm Kelvin Odinamadu 👋
+### Hi there! Welcome to my GitHub Profile, I'm Kelvin Odinamadu 👋
 
 <img src="https://user-images.githubusercontent.com/55924606/223874499-9e228579-7eea-4a98-b99e-9061014493d3.png" width="10000"/>
 
