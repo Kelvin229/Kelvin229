@@ -5,6 +5,10 @@
 
 I am a third-year co-op student studying Honours BSc in Computer Science at Brock University, with a passion for building quality software applications.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kelvin229&theme=highcontrast)](https://github.com/Kelvin229)
+
+<!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 #### Recent Experiences
 * Web Application Developer (co-op) - [Haver & Boecker Canada](https://www.haverboecker.com/en/)
 * Technical Analyst (co-op) - [Ontario Ministry of Transportation](https://www.ontario.ca/page/government-ontario)
