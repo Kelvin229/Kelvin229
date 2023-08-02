@@ -3,7 +3,7 @@
 <!--<img src="https://user-images.githubusercontent.com/55924606/223874499-9e228579-7eea-4a98-b99e-9061014493d3.png" width="10000"/>-->
 
 
-I am a third-year co-op student studying Honours BSc in Computer Science at Brock University, with a passion for building quality software applications.
+I am a fourth-year co-op student studying Honours BSc in Computer Science at Brock University, with a passion for building quality software applications.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kelvin229&theme=highcontrast)](https://github.com/Kelvin229)
 
