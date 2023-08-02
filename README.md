@@ -10,6 +10,7 @@ I am a third-year co-op student studying Honours BSc in Computer Science at Broc
 <!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 #### Recent Experiences
+* Software Developer Intern - [Alibi](https://www.linkedin.com/company/pedicelapp/about/)
 * Web Application Developer (co-op) - [Haver & Boecker Canada](https://www.haverboecker.com/en/)
 * Technical Analyst (co-op) - [Ontario Ministry of Transportation](https://www.ontario.ca/page/government-ontario)
 
