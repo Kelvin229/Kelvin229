@@ -26,7 +26,6 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -89,5 +88,5 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
 <a href="https://linkedin.com/in/kelvin-odi" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
-<a href="https://bit.ly/KelvinOdi-Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="KelvinOdi-Apps"/></a>&nbsp;
-</p>
+<!-- <a href="https://bit.ly/KelvinOdi-Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="KelvinOdi-Apps"/></a>&nbsp;
+</p> -->
