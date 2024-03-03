@@ -12,14 +12,17 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<h2 align="left">Skills 🚀</h2>
+<h2 align="left">Tech Stack 🚀</h2>
 
+### Programming Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Web & Mobile Development:
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -33,13 +36,19 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/asp.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Cloud Services:
 ![GCP](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws_amplify-%23FF9900.svg?style=for-the-badge&logo=awsamplify&logoColor=white)
+
+### Deployment Platforms:
 ![Render](https://img.shields.io/badge/render-%23458BFF.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cyclic](https://img.shields.io/badge/cyclic-%23323330.svg?style=for-the-badge&logo=cyclic&logoColor=%23F7DF1E)
+
+### DevOps & Collaboration Tools:
 ![Azure DevOps](https://img.shields.io/badge/azure_devops-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft-365&logoColor=white)
@@ -47,19 +56,27 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/sharepoint-%23007A5A.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/power_platform-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-platform&logoColor=black)
+
+### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+### Development Tools:
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Testing Frameworks:
+![JUnit](https://img.shields.io/badge/JUnit-%25A2B5CD.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-%232F2F2F.svg?style=for-the-badge&logo=android&logoColor=white) 
+![TestNG](https://img.shields.io/badge/TestNG-%236DB33F.svg?style=for-the-badge&logo=testng&logoColor=white)
+
+
+### Operating Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
