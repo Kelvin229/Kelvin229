@@ -3,7 +3,7 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 
 - 👀 **Skills**: Proficient in Java, SQL, Python, and JavaScript.
 - 🌱 **Current Focus**: Currently learning Android development with Java, building 'Quiz Qrafter,' and collaborating on research to develop software solutions using genetic programming with Python.
-- 👉 **Aspirations**: Aiming to specialize in backend development, mobile & Web app development, and building enterprise applications.
+- 👉 **Aspirations**: Aiming to specialize in Machine Learning, NLP, Data Engineering, backend development, mobile & Web app development, and building enterprise applications.
 - 🚀 **Exploring**: Interested in exploring Automation engineering, DevOps, Cloud Services, and Data Science.
 - 📫 **Contact**: You can reach me at **ke20od@gmail.com**.
 
