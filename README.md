@@ -1,5 +1,5 @@
 ### Hello, I'm Kelvin Odinamadu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
-I'm a passionate software developer in my fourth year at Brock University for Computer Science. I've worked with Java, Python, SQL, JavaScript, TypeScript, C#, and C++ for my co-op, academic, and personal projects. So far, my software development experience has been in the web and mobile space, but I'm also open to exploring other technical ventures within the Software space.
+I'm a passionate software developer in my fourth year at Brock University for Computer Science. I've worked with Java, Python, SQL, JavaScript, TypeScript, C#, and C++ for my internship, academic, and personal projects. So far, my software development experience has been in the web and mobile space, but I'm also open to exploring other technical ventures within the Software space.
 
 - 👀 **Skills**: Proficient in Java, SQL, Python, and JavaScript.
 - 🌱 **Current Focus**: Currently learning Android development with Java, building 'Quiz Qrafter,' and collaborating on research to develop software solutions using genetic programming with Python.
