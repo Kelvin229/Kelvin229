@@ -3,9 +3,6 @@
 
 <h4 align="center">Developer and Analyst with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Science fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role for my fall co-op term or 2025 new grad opportunities.</h4>
 
-- 👉 **Aspirations**: Aiming to specialize in Software Engineering, Data Engineering, Backend development, Data Science, Mobile & Web app development, Machine Learning, and building Enterprise applications.
-- 📫 **Contact**: You can reach me at **ke20od@gmail.com**.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kelvin229&label=Profile%20views&color=0e75b6&style=flat" alt="Kelvin229" /> </p>
 
 
