@@ -1,10 +1,9 @@
-### Hello, I'm Kelvin Odinamadu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">
-I'm a passionate software developer in my fourth year at Brock University for Computer Science. I've worked with Java, Python, SQL, JavaScript, TypeScript, C#, and C++ for my internship, academic, and personal projects. So far, my software development experience has been in the web and mobile space, but I'm also open to exploring other technical ventures within the Software space.
+<h1 align="center">Hi 🙂, I'm Kelvin Odinamadu</h1>
+<h3 align="center">I'm a passionate software developer and data enthusiast in my fourth year at Brock University for Computer Science.</h3>
 
-- 👀 **Skills**: Proficient in Java, SQL, Python, and JavaScript.
-- 🌱 **Current Focus**: Currently learning Android development with Java, building 'Quiz Qrafter,' and collaborating on research to develop software solutions using genetic programming with Python.
-- 👉 **Aspirations**: Aiming to specialize in Data Engineering, Backend development, Data Science, Mobile & Web app development, Machine Learning, and building Enterprise applications.
-- 🚀 **Exploring**: Interested in exploring Automation engineering, DevOps, Cloud Services, and Data Science.
+<h4 align="center">Developer and Analyst with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Science fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role for my fall co-op term or 2025 new grad opportunities.</h4>
+
+- 👉 **Aspirations**: Aiming to specialize in Software Engineering, Data Engineering, Backend development, Data Science, Mobile & Web app development, Machine Learning, and building Enterprise applications.
 - 📫 **Contact**: You can reach me at **ke20od@gmail.com**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kelvin229&label=Profile%20views&color=0e75b6&style=flat" alt="Kelvin229" /> </p>
@@ -12,74 +11,74 @@ I'm a passionate software developer in my fourth year at Brock University for Co
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<h2 align="left">Tech Stack 🚀</h2>
+<h2 align="left">Tech Stack 🛠️🚀</h2>
 
 ### Programming Language:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=white&labelColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=white&labelColor=239120)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+
 
 ### Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=white&labelColor=3DDC84)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=white&labelColor=DD0031)
 
 
 ### Backend:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/asp.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=white&labelColor=F2F4F9)
+![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white&labelColor=092E20)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=dotnet&logoColor=white&labelColor=512BD4)
+![ExpressJS](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=white&labelColor=039BE5)
 
 ### Cloud Services:
-![GCP](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/aws_amplify-%23FF9900.svg?style=for-the-badge&logo=awsamplify&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-000000?style=flat&logo=google-cloud&logoColor=white&labelColor=4285F4)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoftazure&logoColor=white&labelColor=0072C6)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=awsamplify&logoColor=white&labelColor=FF9900)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000000?style=flat&logo=microsoft%20sql%20server&logoColor=white&labelColor=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 ### DevOps & Collaboration Tools:
-![Azure DevOps](https://img.shields.io/badge/azure_devops-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/microsoft_365-%23D83B01.svg?style=for-the-badge&logo=microsoft-365&logoColor=white)
-![Agile Scrum](https://img.shields.io/badge/agile_scrum-%23E34F26.svg?style=for-the-badge&logo=scrumpoker&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![SharePoint](https://img.shields.io/badge/sharepoint-%23007A5A.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Power Platform](https://img.shields.io/badge/power_platform-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-platform&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000000?style=flat&logo=azure-devops&logoColor=white&labelColor=0078D4)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-000000?style=flat&logo=microsoft-365&logoColor=white&labelColor=D83B01)
+![Agile Scrum](https://img.shields.io/badge/-Agile_Scrum-000000?style=flat&logo=scrumpoker&logoColor=white&labelColor=E34F26)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=white&labelColor=FF6C37)
+![SharePoint](https://img.shields.io/badge/-SharePoint-000000?style=flat&logo=microsoft-sharepoint&logoColor=white&labelColor=007A5A)
+![Power Platform](https://img.shields.io/badge/-Power_Platform-000000?style=flat&logo=microsoft-power-platform&logoColor=black&labelColor=F2C811)
 
 ### Deployment Platforms:
-![Render](https://img.shields.io/badge/render-%23458BFF.svg?style=for-the-badge&logo=render&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Cyclic](https://img.shields.io/badge/cyclic-%23323330.svg?style=for-the-badge&logo=cyclic&logoColor=%23F7DF1E)
+![Render](https://img.shields.io/badge/-Render-000000?style=flat&logo=render&logoColor=white&labelColor=458BFF)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=white&labelColor=430098)
+![Cyclic](https://img.shields.io/badge/-Cyclic-000000?style=flat&logo=cyclic&logoColor=F7DF1E)
 
 ### Development Tools:
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![GitHub](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=black)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=white&labelColor=181717)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=ffffff)
 
 ### Testing Frameworks:
-![JUnit](https://img.shields.io/badge/JUnit-%25A2B5CD.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![Espresso](https://img.shields.io/badge/Espresso-%232F2F2F.svg?style=for-the-badge&logo=android&logoColor=white) 
+![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat&logo=junit5&logoColor=white&labelColor=A2B5CD)
+![Espresso](https://img.shields.io/badge/-Espresso-000000?style=flat&logo=android&logoColor=white&labelColor=2F2F2F)
 
 
 ### Operating Tools:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android_Studio](https://img.shields.io/badge/AndroidStudio-008678.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_Idea-FF1493.svg?style=for-the-badge&logo=intellij-idea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=black&labelColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android-studio&logoColor=white&labelColor=008678)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_Idea-000000?style=flat&logo=intellij-idea&logoColor=white&labelColor=FF1493)
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
