@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Kelvin Odinamadu</h1>
 <h3 align="center">A passionate software developer and data enthusiast in my fourth year at Brock University for Computer Science.</h3>
 
-<h4 align="center">Developer and Analyst with a vast area of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages with Solid Computer Science fundamentals. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role for my fall co-op term or 2025 new grad opportunities.</h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kelvin229&label=Profile%20views&color=0e75b6&style=flat" alt="Kelvin229" /> </p>
 
 
